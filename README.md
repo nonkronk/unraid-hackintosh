@@ -3,3 +3,4 @@
 
 ## Bookmark
 - [OCLP - Preliminary Support for macOS Sonoma](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/1077)
+- [r/hackintosh - TP-LINK UB400 on Sonoma](https://www.reddit.com/r/hackintosh/s/JNEezvrBxJ)
